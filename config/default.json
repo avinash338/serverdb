@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"jwtPrivateKey",
+    "db":"mongodb+srv://avinash:avinash@apcluster.1qk70.mongodb.net/sample_mflix?retryWrites=true&w=majority"
+}
